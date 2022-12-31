@@ -16,9 +16,11 @@ To use this application, clone the repository and open it in Visual Studio. Buil
 # Requirements
 ```
 Visual Studio
-.NET framework 4.7.2 or higher
+.NET 6 or higher
 ```
-[Link text Here](https://link-url-here.org)
+[download Visual Studio](https://visualstudio.microsoft.com/vs/community/)
+<br/>
+[download .Net 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # Notes
 ```
